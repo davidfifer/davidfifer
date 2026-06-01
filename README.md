@@ -11,7 +11,7 @@ I care about reliability, performance, and developer experience—creating syste
 My work centers on writing developer‑friendly code, improving operational excellence, and building platforms that empower teams to move fast without sacrificing quality or security.
 
 * 🌍  I'm based in Kansas City
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/david-b-fifer)
+* 🖥️  See my portfolio at [LinkeIn](http://www.linkedin.com/in/david-b-fifer)
 * ✉️  You can contact me at [davidfifer47@gmail.com](mailto:davidfifer47@gmail.com)
 * 🧠  I'm currently learning Docker & Kubernetes
 
@@ -29,8 +29,8 @@ src="https://img.shields.io/github/followers/davidfifer/davidfifer?logo=github&s
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/davidfifer/davidfifer"><img src="https://github-readme-stats.vercel.app/api?username=davidfifer/davidfifer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="davidfifer/davidfifer GitHub stats" /></a>
+<a href="http://www.github.com/davidfifer/davidfifer"><img src="https://github-readme-stats.vercel.app/api?username=davidfifer/davidfifer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="davidfifer/davidfifer's GitHub stats" /></a>
 
 <a href="http://www.github.com/davidfifer/davidfifer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davidfifer/davidfifer&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/davidfifer/davidfifer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfifer/davidfifer.github.io&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/davidfifer/davidfifer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfifer/davidfifer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is David Fifer
 ====================================================================================================================================
 
-Software Engineer
+Software engineer
 -----------------
 
-Software Engineer focused on designing, building, and operating scalable distributed systems and robust backend services. I work primarily in Python and Java, with deep experience in DevOps automation, CI/CD pipelines, and secure‑by‑default platform engineering.
+Software engineer focused on designing, building, and operating scalable distributed systems and robust backend services. I work primarily in Python and Java, with deep experience in DevOps automation, CI/CD pipelines, and secure‑by‑default platform engineering.
 
 I care about reliability, performance, and developer experience—creating systems that are intuitive to work with and resilient in production. I collaborate closely with product, design, and engineering teams to deliver user‑focused capabilities that help organizations ship quickly and confidently.
 
 My work centers on writing developer‑friendly code, improving operational excellence, and building platforms that empower teams to move fast without sacrificing quality or security.
 
 * 🌍  I'm based in Kansas City
-* 🖥️  See my portfolio at [LinkeIn](http://www.linkedin.com/in/david-b-fifer)
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/david-b-fifer)
 * ✉️  You can contact me at [davidfifer47@gmail.com](mailto:davidfifer47@gmail.com)
 * 🧠  I'm currently learning Docker & Kubernetes
 
@@ -24,6 +24,7 @@ My work centers on writing developer‑friendly code, improving operational exce
 <p align="left"> <a href="https://www.github.com/davidfifer/davidfifer.github.io" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/david-b-fifer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/davidfifer/davidfifer.github.io" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/davidfifer/davidfifer.github.io?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>

@@ -28,6 +28,7 @@ My work centers on writing developer‑friendly code, improving operational exce
 ### Badges
 <a href="https://www.github.com/davidfifer/davidfifer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/davidfifer/davidfifer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/davidfifer/davidfifer"><img src="https://github-readme-stats.vercel.app/api?username=davidfifer/davidfifer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="davidfifer/davidfifer's GitHub stats" /></a>

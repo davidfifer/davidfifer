@@ -11,7 +11,7 @@ I care about reliability, performance, and developer experience—creating syste
 My work centers on writing developer‑friendly code, improving operational excellence, and building platforms that empower teams to move fast without sacrificing quality or security.
 
 * 🌍  I'm based in Kansas City
-* 🖥️  See my portfolio at [LinkeIn](http://www.linkedin.com/in/david-b-fifer)
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/david-b-fifer)
 * ✉️  You can contact me at [davidfifer47@gmail.com](mailto:davidfifer47@gmail.com)
 * 🧠  I'm currently learning Docker & Kubernetes
 

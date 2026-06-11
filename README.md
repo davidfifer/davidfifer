@@ -1,10 +1,7 @@
 Hi my name is David Fifer
 ====================================================================================================================================
 
-Software engineer
------------------
-
-Software engineer focused on designing, building, and operating scalable distributed systems and robust backend services. I work primarily in Python and Java, with deep experience in DevOps automation, CI/CD pipelines, and secure‑by‑default platform engineering.
+I am a Software engineer focused on designing, building, and operating scalable distributed systems and robust backend services. I work primarily in Python and Java, with deep experience in DevOps automation, CI/CD pipelines, and secure‑by‑default platform engineering.
 
 I care about reliability, performance, and developer experience—creating systems that are intuitive to work with and resilient in production. I collaborate closely with product, design, and engineering teams to deliver user‑focused capabilities that help organizations ship quickly and confidently.
 

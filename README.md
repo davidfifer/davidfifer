@@ -1,32 +1,52 @@
-Hi my name is David Fifer
-====================================================================================================================================
+# 👋 Hi, I'm David Fifer  
+### Backend Engineer • Distributed Systems • DevOps Automation
 
-I am a Software Engineer focused on designing, building, and operating scalable distributed systems and robust backend services. I work primarily in Python and Java, with deep experience in DevOps automation, CI/CD pipelines, and secure‑by‑default platform engineering.
+I design, build, and operate scalable backend systems with a focus on reliability, performance, and developer experience. My work centers on creating platforms that help engineering teams ship quickly, safely, and confidently.
 
-I care about reliability, performance, and developer experience creating systems that are intuitive to work with and resilient in production. I collaborate closely with product, design, and engineering teams to deliver user‑focused capabilities that help organizations ship quickly and confidently.
+I specialize in **Python**, **Java**, **distributed systems**, **CI/CD automation**, and **secure-by-default infrastructure**. I enjoy solving hard backend problems, improving operational excellence, and building tools that make developers more productive.
 
-My work centers on writing developer‑friendly code, improving operational excellence, and building platforms that empower teams to move fast without sacrificing quality or security.
+---
 
-* 🌍  I'm based in Kansas City
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/david-b-fifer)
-* ✉️  You can contact me at [davidfifer47@gmail.com](mailto:davidfifer47@gmail.com)
-* 🧠  I'm currently learning Docker & Kubernetes
+## 🧩 About Me
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" alt="Ruby" title="Ruby" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-</p>
+- 🌍 Based in Kansas City  
+- 🧠 Currently learning Docker & Kubernetes  
+- 🖥️ Portfolio: [LinkedIn](https://www.linkedin.com/in/david-b-fifer)  
+- ✉️ Contact: [davidfifer47@gmail.com](mailto:davidfifer47@gmail.com)  
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/davidfifer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/david-b-fifer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+## 🛠️ Technical Skills
 
-### Badges
+- **Languages:** Python, Java  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** Git, Linux, Vim  
+- **Focus Areas:** Distributed systems, CI/CD, DevOps automation, reliability, observability  
 
-<a href="https://github.com/davidfifer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfifer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+## 🌐 Socials
 
-<div width="100%" align="center">
-  <a href="https://github.com/davidfifer/davidfifer-portfolio" align="left">
-    <img align="left" width="45%" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=davidfifer&repo=davidfifer-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />  </a></div><br /><br /><br /><br /><br /><br /><br />
+- **GitHub:** [github.com/davidfifer](https://github.com/davidfifer)  
+- **LinkedIn:** [linkedin.com/in/david-b-fifer](https://www.linkedin.com/in/david-b-fifer)  
+
+---
+
+## 📊 GitHub Stats
+
+### 🔥 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfifer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/davidfifer)
+
+### 📦 Top Repository
+
+[![Portfolio Repo](https://github-readme-stats.vercel.app/api/pin/?username=davidfifer&repo=davidfifer-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/davidfifer/davidfifer-portfolio)
+
+---
+
+## 🚀 What I’m Focused On
+
+- Building scalable backend systems  
+- Improving developer tooling and automation  
+- Strengthening reliability and observability  
+- Learning containerization and orchestration  

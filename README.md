@@ -18,8 +18,13 @@ I specialize in **Python**, **Java**, **distributed systems**, **CI/CD automatio
 
 ## Technical Skills
 
-- **Languages:** Python, Java  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Automation:** automated testing, workflow automation, CI/CD
+- **Backend & Distributed Workflows:** REST APIs, microservices, async workflows, distributed pipelines, data flow validation
+- **Cloud & Infrastructure:** OCI, AWS, Terraform, CI/CD pipelines, Chef, Ansible, Linux, Docker, Jenkins
+- **Data & Storage:** MySQL, Oracle, Postgres, Redis, MongoDB, data modeling, performance tuning
+- **Distributed Systems & Reliability:** event‑driven processing, Kafka, Flink, logs, metrics, tracing, RCA, incident response, production support
+- **Polyglot Engineering:** Python, Java, Bash, Ruby, Groovy, PowerShell, C++, JavaScript
+- **Observability:** Zabbix, log analysis, performance diagnostics, dashboards, tracing
 - **Tools:** Git, Linux, Vim  
 - **Focus Areas:** Distributed systems, CI/CD, DevOps automation, reliability, observability  
 

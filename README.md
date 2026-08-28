@@ -9,7 +9,7 @@ I specialize in **Python**, **Java**, **distributed systems**, **observability**
 
 ## About Me
  
-- Kansas City–based engineer focused on backend systems and reliability
+- Kansas City based engineer focused on backend systems and reliability
 - Currently leveling up in Docker and Kubernetes
 - Building practical projects that showcase automation, observability, and distributed‑system design
 - Portfolio: [github.com/davidfifer/davidfifer.github.io](https://davidfifer.github.io)

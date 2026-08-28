@@ -33,7 +33,7 @@ I specialize in **Python**, **Java**, **distributed systems**, **observability**
 ## Socials
 
 - **GitHub Profile**: [github.com/davidfifer/davidfifer.github.io](https://davidfifer.github.io)
-- **Portfolio**: [github.com/davidfifer/davidfifer](https://davidfifer)
+- **Portfolio**: [github.com/davidfifer/davidfifer](https://github.com/davidfifer/davidfifer-portfolio)
 - **LinkedIn**: https://www.linkedin.com/in/david-b-fifer
 
 ---

@@ -1,9 +1,9 @@
 # Hi, I'm David Fifer  
-### Backend Engineer • Distributed Systems • DevOps Automation
+### Distributed Systems • Reliability Engineering • Developer Productivity
 
-I design, build, and operate scalable backend systems with a focus on reliability, performance, and developer experience. My work centers on creating platforms that help engineering teams ship quickly, safely, and confidently.
+I design and build reliable, scalable systems that help engineering teams ship quickly and confidently. My work spans backend development, distributed systems architecture, automation, observability, and developer‑productivity tooling - all with a focus on operational excellence.
 
-I specialize in **Python**, **Java**, **distributed systems**, **CI/CD automation**, and **secure-by-default infrastructure**. I enjoy solving hard backend problems, improving operational excellence, and building tools that make developers more productive.
+I specialize in **Python**, **Java**, **distributed systems**, **observability**, **CI/CD automation**, and **platform‑level reliability engineering**. I enjoy solving complex system problems, improving resilience, and creating tools that make engineering workflows predictable, testable, and efficient.
 
 ---
 

@@ -1,7 +1,7 @@
 # Hi, I'm David Fifer  
 ### Distributed Systems • Reliability Engineering • Developer Productivity
 
-I design and build reliable, scalable systems that help engineering teams ship quickly and confidently. My work spans backend development, distributed systems architecture, automation, observability, and developer‑productivity tooling - all with a focus on operational excellence.
+I design and build reliable, scalable systems that help engineering teams ship quickly and confidently. My work spans backend development, distributed systems architecture, automation, observability, and developer‑productivity tooling — all with a focus on operational excellence.
 
 I specialize in **Python**, **Java**, **distributed systems**, **observability**, **CI/CD automation**, and **platform‑level reliability engineering**. I enjoy solving complex system problems, improving resilience, and creating tools that make engineering workflows predictable, testable, and efficient.
 
@@ -12,7 +12,7 @@ I specialize in **Python**, **Java**, **distributed systems**, **observability**
 - Kansas City based engineer focused on backend systems and reliability
 - Currently leveling up in **Docker** and **Kubernetes**
 - Building practical projects that showcase automation, observability, and distributed‑system design
-- Contact: [davidfifer47@gmail.com](mailto:davidfifer47@gmail.com)
+- Contact: davidfifer47@gmail.com
 
 ---
 

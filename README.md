@@ -41,11 +41,11 @@ I specialize in **Python**, **Java**, **distributed systems**, **observability**
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats-github.vercel.app/api/top-langs/?username=davidfifer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages)
+[![Top Languages](https://github-readme-stats-github.vercel.app/api/top-langs/?username=davidfifer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfifer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages)
 
 ### Top Repository
 
-![Portfolio Repo](https://github-readme-stats-github.vercel.app/api/pin/?username=davidfifer&repo=davidfifer-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+[![Portfolio Repo](https://github-readme-stats-github.vercel.app/api/pin/?username=davidfifer&repo=davidfifer-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github-readme-stats.vercel.app/api/pin/?username=davidfifer&repo=davidfifer-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
 ---
 

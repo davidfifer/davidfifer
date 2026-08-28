@@ -8,11 +8,13 @@ I specialize in **Python**, **Java**, **distributed systems**, **observability**
 ---
 
 ## About Me
-
-- Based in Kansas City  
-- Currently learning Docker & Kubernetes  
-- Portfolio: [LinkedIn](https://www.linkedin.com/in/david-b-fifer)  
-- Contact: [davidfifer47@gmail.com](mailto:davidfifer47@gmail.com)  
+ 
+- Kansas City–based engineer focused on backend systems and reliability
+- Currently leveling up in Docker and Kubernetes
+- Building practical projects that showcase automation, observability, and distributed‑system design
+- Portfolio: [github.com/davidfifer/davidfifer.github.io](https://davidfifer.github.io)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-b-fifer)
+- Contact: [davidfifer47@gmail.com](mailto:davidfifer47@gmail.com)
 
 ---
 

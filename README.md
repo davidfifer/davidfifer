@@ -42,7 +42,7 @@ I specialize in **Python**, **Java**, **distributed systems**, **observability**
 
 ### Top Languages
 
-[![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=davidfifer&repos=davidfifer-portfolio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Portfolio%20Languages)](https://github-readme-stats-one.vercel.app/api/top-langs/?username=davidfifer&repos=davidfifer-portfolio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Portfolio%20Languages)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfifer&repo=davidfifer-portfolio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Portfolio%20Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfifer&repo=davidfifer-portfolio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Portfolio%20Languages)
 
 ### Top Repository
 

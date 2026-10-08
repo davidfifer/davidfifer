@@ -25,7 +25,7 @@ I specialize in **Python**, **Java**, **distributed systems**, **observability**
 - **Distributed Systems & Reliability:** Event‑driven processing, Kafka, Flink, logs, metrics, tracing, RCA, incident response, production support
 - **Polyglot Engineering:** Python, Java, Bash, Ruby, Groovy, PowerShell, JavaScript
 - **Observability:** Zabbix, log analysis, performance diagnostics, dashboards, tracing
-- **Tools:** Git, Linux, Vim  
+- **Tools:** Git, Linux, Maven, Vim
 - **Focus Areas:** Distributed systems, CI/CD, DevOps automation, reliability, observability  
 
 ---

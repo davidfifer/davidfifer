@@ -20,7 +20,7 @@ I specialize in **Python**, **Java**, **distributed systems**, **observability**
 
 - **Automation:** Automated testing, workflow automation, CI/CD
 - **Backend & Distributed Workflows:** REST APIs, microservices, async workflows, distributed pipelines, data flow validation
-- **Cloud & Infrastructure:** OCI, AWS, Terraform, CI/CD pipelines, Chef, Ansible, Linux, Docker, Jenkins
+- **Cloud & Infrastructure:** OCI, Terraform, CI/CD pipelines, Chef, Ansible, Linux, Docker, Jenkins
 - **Data & Storage:** MySQL, Oracle, Postgres, Redis, MongoDB, data modeling, performance tuning
 - **Distributed Systems & Reliability:** Event‑driven processing, Kafka, Flink, logs, metrics, tracing, RCA, incident response, production support
 - **Polyglot Engineering:** Python, Java, Bash, Ruby, Groovy, PowerShell, C++, JavaScript
